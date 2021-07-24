@@ -292,19 +292,3 @@ print('\n')
 print('--- Driver Release Note Tool --- Finish Time: ', theTime_finish)
 
 input()
-
-#SWB W72G7
-#SRV 2V83T
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
