@@ -37,7 +37,7 @@ try:
        
     driver_path = 'chromedriver_v87.exe'
     driver = webdriver.Chrome(executable_path = driver_path)
-    driver.get('Dell Website')
+    driver.get('Dell Issue Website')
     driver.implicitly_wait(30)
 
     f = open('Account_Password.txt')
