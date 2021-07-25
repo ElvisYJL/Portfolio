@@ -37,7 +37,7 @@ try:
        
     driver_path = 'chromedriver_v87.exe'
     driver = webdriver.Chrome(executable_path = driver_path)
-    driver.get('https://agile.us.dell.com/Agile/default/j_security_check')
+    driver.get('Dell Website')
     driver.implicitly_wait(30)
 
     f = open('Account_Password.txt')
