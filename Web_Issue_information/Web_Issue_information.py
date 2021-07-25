@@ -25,7 +25,7 @@ print('\n')
 print('--- Start Time: ' , theTime + '\n')
 
 driver = webdriver.Edge(executable_path = 'msedgedriver.exe')
-driver.get('https://jira.cpg.dell.com/secure/Dashboard.jspa')
+driver.get('Dell PIMS Website')
 driver.implicitly_wait(30)
 
 print('Searching the Account and Password...')
